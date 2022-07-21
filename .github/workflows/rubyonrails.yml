@@ -11,7 +11,7 @@ on:
   pull_request:
     branches: [ "master" ]
 jobs:
-  test:
+  new:
     runs-on: ubuntu-latest
     services:
       postgres:
