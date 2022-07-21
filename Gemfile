@@ -43,7 +43,7 @@ gem 'devise-security'
 gem 'doorkeeper'
 gem 'pundit'
 
-# i18n gems test
+# i18n gems
 gem 'devise-i18n'
 gem 'doorkeeper-i18n'
 gem 'rails-i18n'
